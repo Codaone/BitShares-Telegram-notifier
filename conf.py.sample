@@ -1,0 +1,8 @@
+# Telegram bot secret key
+SECRET = 'xxxx'
+# Telegram conversation id
+CHAT_ID = '132456'
+# Accounts to be followed
+ACCOUNTS = ['username', 'username2']
+# If empty uses defaults
+NODES = ''
