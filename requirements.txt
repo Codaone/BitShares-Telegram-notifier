@@ -13,6 +13,6 @@ python-telegram-bot==8.1.1
 requests==2.19.1
 scrypt==0.8.6
 six==1.11.0
-urllib3==1.23
+urllib3==1.26.5
 websocket-client==0.48.0
 websockets==6.0
